@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001171974588",
+    "project_id": "momentareely",
+    "storage_bucket": "momentareely.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001171974588:android:33d8fb35fc7b4c4e9c53b9",
+        "android_client_info": {
+          "package_name": "com.example.momentreely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc57yoQSD7GtJDRiLeckH0AFUSlf05s4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
