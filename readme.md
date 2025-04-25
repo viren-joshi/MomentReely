@@ -12,7 +12,7 @@ The resoning behind this project was not to create a photo sharing application, 
 
 ### Front-End (Mobile Application)
 - Kotlin
-  - Application makes use of the _MVVM_ Architecture.
+  - State Management - _MVVM_ Architecture.
 - Jetpack Compose
 - Retrofit & OkHttp
 
