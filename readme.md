@@ -34,7 +34,7 @@ The resoning behind this project was not to create a photo sharing application, 
 ### Compute
 - **Lambda** <br> For severless execution of user push notifications.
 - **EC2 Instance** <br> Runs containerised Flask Application as backend in a private subnet.
-- **Application Load Balancer** <br> Acts as a proxy for the EC2 instance.
+- **Application Load Balancer** <br> Acts as a reverse proxy for the EC2 instance.
 ### Content Delivery Network
 - **Amazon Simple Notification Service (SNS)** <br> For user push notifications (implicitly uses FCM)
 
