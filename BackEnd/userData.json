@@ -1,0 +1,27 @@
+{
+    "userId": {
+      "S": "hfqML0AkMVXbH8svkQaiHUZF5Ws2"
+    },
+    "email": {
+      "S": "viren@mail.com"
+    },
+    "friends": {
+      "SS": [
+        "JVTYsmTGDWXQNP3kp1kzZ06d4EF3",
+        "w0c8iYWWo5MO4W2lWBxaCiaP0I53"
+      ]
+    },
+    "name": {
+      "S": "Viren Joshi"
+    },
+    "notificationData": {
+      "M": {
+        "arn": {
+          "S": "arn:aws:sns:us-east-1:200002507379:endpoint/GCM/momentreely/c92bec76-2e6e-3e6e-9051-1c28cb4011f0"
+        },
+        "deviceId": {
+          "S": "eP8gOKJgSb-pqRSN4M1vfV:APA91bEgCCdbdjXyEpi5wyRU3HVV975M5dvAQFZe3Z5jIcLP069dLSGIynBxSgPcVxg9oRDQYOM7nucN-8F0Amk0sa2vHT7ZEjrLnEfiUXu5dEt87RALtO8"
+        }
+      }
+    }
+  }
