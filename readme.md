@@ -25,7 +25,7 @@ The resoning behind this project was not to create a photo sharing application, 
 - Flask Application
 
 ## AWS Architecture
-![CloudArch](https://github.com/user-attachments/assets/3b882fd5-287e-4cd2-96b4-dd99f688c84b)
+![CloudArch](https://github.com/user-attachments/assets/cad371f8-82a7-4dd2-89d8-22f5b661441d)
 *AWS Architecture*
 
 ### Data Storage
